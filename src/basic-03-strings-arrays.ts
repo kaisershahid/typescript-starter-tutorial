@@ -53,7 +53,7 @@ console.log("removeFirstItem", { columns, firstItem, length: columns.length });
 columns.unshift("newItemAtstart");
 console.log("addFirstItem", { columns, length: columns.length });
 
-// you can do arrays of arrays, like a matrix
+// you can do arrays of arrays, like a matrix. the notation is [x][y] (mathematical matrix notation uses [y][x])
 const matrix = [
 	[1, 2, 3],
 	[4, 5, 6],
