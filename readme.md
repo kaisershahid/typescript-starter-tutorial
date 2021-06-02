@@ -7,7 +7,7 @@
     - installs `typescript`, which is a version of javascript that has support for explicit datatypes
 4. next, type `npm install --global yarn`
     - `yarn` is a package manager
-5. go to the [typescript-starter-tutorial](https://github.com/kaisershahid/typescript-starter-tutorial/releases/tag/0.0.1) repository and download the zip file of the latest source
+5. go to the [typescript-starter-tutorial](https://github.com/kaisershahid/typescript-starter-tutorial/releases) repository and download the zip file of the latest source
 6. unzip into some directory, then change into that directory in the command prompt
 7. run `yarn install`
 8. if there are no errors, type `ts-node src/basic-01-vars-types.ts`
