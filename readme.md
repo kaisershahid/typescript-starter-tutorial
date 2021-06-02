@@ -15,5 +15,7 @@
 
 ## Other Resources
 
+-   [javascript.info](https://javascript.info/)
 -   [tutorialspoint: nodejs](https://www.tutorialspoint.com/nodejs/index.htm)
 -   [tutorialsteacher: nodejs](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+-   [nodejs.dev](https://nodejs.dev/learn)
